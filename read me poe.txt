@@ -1,0 +1,30 @@
+------README FILE-----
+ the codes for each page are in the Account folder 
+the graph is on the home folder 
+
+#HOW TO USE 
+-Open the project by using visual studio 2019
+-The project was coded using Asp.NET CORE
+
+# THE PROJECT WAS BUILT USING THE FOLLOWIUNG TECHNOLOGIES AND FEATURES
+</code>
+-Visual Studio
+-ASP.NET CORE
+-Debugging the code with take code and executing it on the internet using /identity/account/input page name  and then the connetion will begin
+ T
+
+Table mane: poe_prog
+----sql
+CREATE TABLE IF NOT EXIST poe_prog
+id int
+email varchar NOT NULL,
+password varchar NOT NULL,
+PRIMARY KEY (id)
+
+
+----sql
+INSERT INTO poe_pog
+(email,password,firstname,lastname, module name, modulke code)
+
+
+THIS PROJECT WAS BUILT UNDER MVC.
